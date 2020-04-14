@@ -1,6 +1,9 @@
 #!/usr/bin/perl -w
 
 # amemded by eric 07/11/2013
+# modified by Prakash 03/05/2015
+# Usage:
+# perl force_dna_aln.pl amino_acid_alignment dna_fasta_file targeted_dna_aln_filename
 
 use strict;
 
